@@ -16,7 +16,7 @@ ReactDOM.createRoot(document.getElementById("root")!).render(
       <LanguageProvider>
         <ModalProvider>
           <HelmetProvider>
-            <BrowserRouter basename="/scienseSchool">
+            <BrowserRouter basename="/scienceSchool">
               <GlobalErrorBoundary>
                 <App />
               </GlobalErrorBoundary>

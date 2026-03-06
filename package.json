@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Liza0806.github.io/scienseSchool",
+  "homepage": "https://Liza0806.github.io/scienceSchool",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
