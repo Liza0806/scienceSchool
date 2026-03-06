@@ -22,7 +22,7 @@ const Hero = () => {
               Учням
               </div>
             <div>
-              <IconStudent/>
+              <IconPupil/>
               Студентам
             </div>
             <div>
@@ -30,7 +30,7 @@ const Hero = () => {
               Врачам
               </div>
             <div>
-              <IconPeople/>
+                <IconPupil/>
                Кожному
               </div>
           </div>
