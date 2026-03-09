@@ -52,16 +52,17 @@
 
 /* IMAGE */
 .photoWrapper {
-  width: 30rem;
-  height: 30rem;
+  width: 100%;          
+  max-width: 30rem;     
+  aspect-ratio: 1 / 1;  
   overflow: hidden;
-  background-color: light.$color-accent-light;
   border-radius: 50%;
+  background-color: light.$color-accent-light;
 
   img {
     width: 100%;
     height: 100%;
-    object-fit: cover;
+    object-fit: cover; 
   }
 }
 
