@@ -182,14 +182,14 @@ export const translations: Record<"UA" | "RU" | "EN", Translations> = {
     "header.WorkInfoSection": "Як ми працюємо",
     "header.contacts": "Контакти",
 
-    "hero.schoolTitle": "Онлайн-школа природничих наук",
+    "hero.schoolTitle": "Онлайн школа природничих наук",
     "hero.subtitle":
       "Допомагаємо зрозуміти науку, а не просто запам’ятовувати факти",
 
-    "hero.ability.one": "Підготовка до НМТ",
-    "hero.ability.two": "Підготовка до КРОК",
-    "hero.ability.three": "Підготовка до вступу",
-    "hero.ability.four": "Поглиблене вивчення предметів",
+    "hero.ability.one": "НМТ",
+    "hero.ability.two": "КРОК",
+    "hero.ability.three": "&&&",
+    "hero.ability.four": "&&&",
 
     "button.bookAppointment": "Записатися на пробне заняття",
 
