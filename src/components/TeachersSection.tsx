@@ -20,7 +20,7 @@ const teachers: Teacher[] = [
     subjectsKey: "teachers.teacher1.subjects",
     bioKey: "teachers.teacher1.bio",
     //@ts-ignore
-    photo: "1cat.jpg",
+    photo: "teacher1.png",
   },
   {
     id: 2,
@@ -28,16 +28,16 @@ const teachers: Teacher[] = [
     subjectsKey: "teachers.teacher2.subjects",
     bioKey: "teachers.teacher2.bio",
      //@ts-ignore
-    photo: "2cat.jpg",
+    photo: "teacher2.png",
   },
-  {
-    id: 3,
-    nameKey: "teachers.teacher3.name",
-    subjectsKey: "teachers.teacher3.subjects",
-    bioKey: "teachers.teacher3.bio",
-     //@ts-ignore
-    photo: "3cat.jpg",
-  },
+  // {
+  //   id: 3,
+  //   nameKey: "teachers.teacher3.name",
+  //   subjectsKey: "teachers.teacher3.subjects",
+  //   bioKey: "teachers.teacher3.bio",
+  //    //@ts-ignore
+  //   photo: "3cat.jpg",
+  // },
 ];
 
 export const TeachersSection = () => {
